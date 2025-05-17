@@ -1,14 +1,3 @@
-<h1 align="center">Olá 👋, eu sou o David</h1>
-<h3 align="center">Jovem apaixonado pela Ciência de Dados</h3>
-
-- 🌱 Atualmente estudando **Python e Machine Learning**
-
-- 📫 Você pode entrar em contato com o email **davidgabricio@gmail.com**
-
-- 📚 Cursando **Matemática 🧐**
-
-- 💬 Me pergunte sobre **SQL, Excel, Power BI, Python, Matemática**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/david-gabricio-0109021b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-gabricio-0109021b7/" height="30" width="40" /></a>
